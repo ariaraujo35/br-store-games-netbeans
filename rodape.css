@@ -1,0 +1,19 @@
+*  {
+    margin:0;
+    padding:0;
+}
+/*Posição do roda pe*/
+html, body {height:auto;}
+
+
+.footer {
+    position:relative;
+    bottom:0;
+    width:100%;
+    padding: 10px;
+    background-color:#00C4DB;
+    margin-top:10px;
+    color: white;
+
+}
+
